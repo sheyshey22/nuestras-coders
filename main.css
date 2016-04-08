@@ -1,0 +1,27 @@
+#contenedor{
+	width: 700px;
+	margin: auto;
+}
+hr{
+	background-color: #000;
+	height: 2px; 
+	width: 10%;
+	margin-left: 0;
+}
+.foto{ 
+	display: inline-block; 
+	position: relative;
+}
+img{
+	opacity: 0.5;
+}
+img:hover{
+	opacity: 1;
+
+}
+p{
+	position: absolute;
+	bottom: 5px;
+	right: 2px;
+	color: white;
+}
